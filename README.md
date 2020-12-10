@@ -6,9 +6,9 @@ Report and Presentation Deck
 
 ## Data:
 
-Downloaded data directly from Kaggle.com (https://www.kaggle.com/fema/firefighter-fatalities), with the original 
-source being from the Federal Emergency Management Agency (FEMA) The dataset came pre-cleaned, with minimal cleaning necessary
-to complete our project.
+Downloaded data directly [here](https://www.kaggle.com/fema/firefighter-fatalities) from Kaggle.com with the original 
+source being from the Federal Emergency Management Agency (FEMA) The dataset came mostly pre-cleaned, with minimal wrangling 
+necessary to complete our project.
 
 However, in order to isolate the effects of the September 11 attacks on first responders, we removed this portion
 of the data from our set and conducted analysis on it separately. We utilized the sqldf package to accomlplish this result
